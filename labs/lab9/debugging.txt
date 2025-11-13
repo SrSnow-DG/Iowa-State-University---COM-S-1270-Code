@@ -1,0 +1,16 @@
+def main():
+    """The main function for the game. The primary gameplay loop is located here.
+    """
+    
+    # DEBUGGING/ TESTING
+    # "." "X" "O"
+    # player 1 = X, 2 = O
+    testBoard = [[".", ".", ".", ".", ".", ".", "."],
+                 [".", ".", ".", ".", ".", ".", "."],
+                 [".", ".", ".", ".", ".", ".", "."],
+                 [".", ".", ".", ".", ".", ".", "."],
+                 [".", ".", ".", ".", ".", ".", "."],
+                 [".", ".", ".", ".", ".", ".", "."]]
+    
+    print(checkWinner(testBoard, 1))
+    sys.exit()
