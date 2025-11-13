@@ -1,0 +1,7 @@
+Explanation for Missing Lab Files
+
+I completed these labs earlier in the semester, but my computer had a critical system failure.
+I had to take it for repair, and during the process the technician had to fully format the system.
+Because of this, all of my local files were completely erased before I could back them up.
+
+The original lab work was lost during the repair process, which is why this folder is currently empty.
